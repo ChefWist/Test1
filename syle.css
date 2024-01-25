@@ -1,0 +1,13 @@
+#body{
+font-family: monospace;
+font-size: 2em;
+background-color:blue;
+}
+#submit{
+background-color:green;
+color:darkgreen;
+font-size: 1em;
+font-family: monospace;
+border-radius:20px;
+border:0;
+}
